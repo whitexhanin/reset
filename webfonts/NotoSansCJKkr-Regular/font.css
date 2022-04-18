@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NotoSansCJKkr-Regular';
+  src: url('NotoSansCJKkr-Regular.eot');
+  src: url('NotoSansCJKkr-Regular.eot?#iefix') format('embedded-opentype'),              
+       url('NotoSansCJKkr-Regular.woff') format('woff');       
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'SpoqaHanSansNeo-Medium';
+  src: url('SpoqaHanSansNeo-Medium.eot');
+  src: url('SpoqaHanSansNeo-Medium.eot?#iefix') format('embedded-opentype'),       
+       url('SpoqaHanSansNeo-Medium.ttf') format('truetype'),
+       url('SpoqaHanSansNeo-Medium.woff') format('woff'),
+       url('SpoqaHanSansNeo-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
